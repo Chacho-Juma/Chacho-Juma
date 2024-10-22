@@ -2,11 +2,11 @@
   <img src="https://github.com/Chacho-Juma/Chacho-Juma/blob/72903b864391838bc5ab410a62fb4bb10ddcc352/images/ChurchilJuma.png"  width="300" height = "300" >
   <div id="badges">
 
-  <a href="mailto: ochiengchurchil75@gmail.com?cc=churchiljuma75@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto: ochiengchurchil75@gmail.com?cc=churchiljuma75@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
-  <a href="https://medium.com/@ochiengchurchil75" target="_blank" rel="noopener noreferrer">
+  <a href="https://medium.com/@ochiengchurchil75" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   
