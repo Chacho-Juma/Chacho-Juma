@@ -1,36 +1,31 @@
-
-
 <div id="header"  align="center" >
+    <!-- Profile Image -->
   <picture >
-  <img src="https://github.com/Chacho-Juma/Chacho-Juma/blob/72903b864391838bc5ab410a62fb4bb10ddcc352/images/ChurchilJuma.png"  width="300" height = "300" >
+  <img alt = "ChurchilJuma Profile Pic" src="https://github.com/Chacho-Juma/Chacho-Juma/blob/72903b864391838bc5ab410a62fb4bb10ddcc352/images/ChurchilJuma.png"  width="300" height = "300" >
 </picture>
+  <!-- Profile Badges -->
   <div id="badges">
-
   <a href="mailto: ochiengchurchil75@gmail.com?cc=churchiljuma75@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-
   <a href="https://medium.com/@ochiengchurchil75/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-  
   <a href="https://www.linkedin.com/in/churchiljuma/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-     
+  </a>   
   <a href="https://www.kaggle.com/churchiljuma/code/">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
-  
   <a href="https://x.com/chacho_juma/">
     <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-
   </div>
-
+  <!-- Profile Views Counter -->
   <div>  
     <img src="https://komarev.com/ghpvc/?username=Chacho-Juma&style=flat-square&color=blue" alt=""/>
   </div>
+  <!-- Introduction - Names-->
   <h1>
   Hey there,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
