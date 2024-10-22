@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
-  <a href="https://medium.com/@ochiengchurchil75" target="_blank">
+  <a href="https://medium.com/@ochiengchurchil75/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   
@@ -14,11 +14,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://www.kaggle.com/churchiljuma/code">
+  <a href="https://www.kaggle.com/churchiljuma/code/">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   
-  <a href="https://x.com/chacho_juma">
+  <a href="https://x.com/chacho_juma/">
     <img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
