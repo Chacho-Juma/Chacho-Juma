@@ -33,14 +33,14 @@
   </h1>
 </div>
 
-### :man_technologist: About Me :
+## :man_technologist: About Me :
 
 I am an Entry Level Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/churchiljuma/")
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)]("mailto:ochiengchurchil75@gmail.com?cc=churchiljuma75@gmail.com")
 -->
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
@@ -59,7 +59,17 @@ I am an Entry Level Data Scientist <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   </div>
-<!--
+
+  ## :fire: My Stats :
+  <div align = "center"
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chacho-Juma&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+    </a>
+  </div>
+  
+
+
+ <!--
 **Chacho-Juma/Chacho-Juma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
