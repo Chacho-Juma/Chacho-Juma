@@ -2,7 +2,7 @@
   <img src="https://github.com/Chacho-Juma/Chacho-Juma/blob/72903b864391838bc5ab410a62fb4bb10ddcc352/images/ChurchilJuma.png"  width="300" height = "300" >
   <div id="badges">
 
-  <a href="mailto:ochiengchurchil75@gmail.com">
+  <a href="mailto: ochiengchurchil75@gmail.com?cc=churchiljuma75@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://www.kaggle.com/churchiljuma">
+  <a href="https://www.kaggle.com/churchiljuma/code">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   
