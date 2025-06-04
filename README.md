@@ -8,7 +8,7 @@
   <a href="mailto: ochiengchurchil75@gmail.com?cc=churchiljuma75@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://medium.com/@ochiengchurchil75/" target="_blank">
+  <a href="https://medium.com/@churchiljuma75/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/churchiljuma/">
@@ -35,7 +35,7 @@
 
 ## :man_technologist: About Me :
 
-I am an Entry Level Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am an Entry Level Data Scientist and Biostatistician <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/churchiljuma/")
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)]("mailto:ochiengchurchil75@gmail.com?cc=churchiljuma75@gmail.com")
